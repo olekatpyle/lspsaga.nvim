@@ -4,10 +4,8 @@ A maintained fork of glepnir/lspsaga.nvim.
 
 Lspsaga is light-weight lsp plugin based on neovim built-in lsp with highly a performant UI. [SEE IN ACTION](https://github.com/tami5/lspsaga.nvim/wiki)
 
-## Features
-
-TODO .......
-
+## Additions 
+- added border option - no-border
 ## Install
 
 ### Packer

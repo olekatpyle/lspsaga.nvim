@@ -38,6 +38,16 @@ local function get_border_style(style, highlight)
       { "+", highlight },
       { "│", highlight },
     },
+    ["no-border"] = {
+      { " ", highlight },
+      { " ", highlight },
+      { " ", highlight },
+      { " ", highlight },
+      { " ", highlight },
+      { " ", highlight },
+      { " ", highlight },
+      { " ", highlight },
+    },
   }
 
   return border_style[style]
